@@ -1,6 +1,6 @@
 # Angular Material Snackbar Tutorial: Easy Toast Notifications for Your App
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/6902ea8954cd275155ae6be7/angular-material-snackbar-tutorial-easy-toast-notifications-for-your-app).
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.8.
 
