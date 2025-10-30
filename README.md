@@ -1,4 +1,6 @@
-# AngularSnackbarDemo
+# Angular Material Snackbar Tutorial: Easy Toast Notifications for Your App
+
+Read the full tutorial [here]().
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.8.
 
